@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82faf5b0.css",
+    "main.js": "/static/js/main.af25e731.js",
+    "static/media/vikas.jpg": "/static/media/vikas.794ef09f14958c2207fc.jpg",
+    "static/media/Vikas Singh Resume.png": "/static/media/Vikas Singh Resume.eeaa2400c3741ff1ec95.png",
+    "static/media/Vikas Singh.pdf": "/static/media/Vikas Singh.bd543b35471a340a8b7a.pdf",
+    "static/media/hero.png": "/static/media/hero.cb4b711eca670789cc92.png",
+    "index.html": "/index.html",
+    "main.82faf5b0.css.map": "/static/css/main.82faf5b0.css.map",
+    "main.af25e731.js.map": "/static/js/main.af25e731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82faf5b0.css",
+    "static/js/main.af25e731.js"
+  ]
+}
